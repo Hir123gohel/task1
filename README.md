@@ -18,3 +18,13 @@ Visualization:
 A line plot shows daily sentiment trends.
 A bar plot compares average sentiment by platform.
 Saving Processed Data: It saves the cleaned and sentiment-analyzed data to a new CSV file.
+![image](https://github.com/user-attachments/assets/231db0d6-6dc2-4a51-b8f9-1f2d509b68c9)
+![image](https://github.com/user-attachments/assets/fe775e8b-8061-48f2-b682-b801c58e673e)
+![image](https://github.com/user-attachments/assets/c09b67a5-12a3-4b6c-922c-4aa4921729d5)
+![image](https://github.com/user-attachments/assets/4486fffa-bd85-432e-8c20-050066037831)
+![image](https://github.com/user-attachments/assets/00e50000-3e9a-47a9-a889-a46de3b6f671)
+
+
+
+
+
